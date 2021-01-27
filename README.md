@@ -6,7 +6,8 @@
  - [nginx](https://hub.docker.com/_/nginx) : latest
  - [php-fpm](https://hub.docker.com/_/php) : php 7.4
     - [composer](https://getcomposer.org/) 
-- [mysql](https://hub.docker.com/_/mysql/) :  latest 
+- [mysql](https://hub.docker.com/_/mysql/) :  latest
+- [phpmyadmin](https://hub.docker.com/_/phpmyadmin) : latest
 
 
 ### Instructions
